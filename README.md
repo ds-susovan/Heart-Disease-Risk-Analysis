@@ -159,10 +159,4 @@ The `.pbix` file contains the interactive Power BI dashboard.
 
 ## Dashboard Preview
 
-![Heart Disease Risk Analysis Dashboard](heart-disease-risk-analysis-dashboard)
-
-Example:
-
-```markdown
-![Heart Disease Risk Analysis Dashboard](heart-disease-risk-analysis-dashboard)
-```
+![Heart Disease Risk Analysis Dashboard](dashboard-screenshot.png)
