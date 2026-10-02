@@ -159,30 +159,10 @@ The `.pbix` file contains the interactive Power BI dashboard.
 
 ## Dashboard Preview
 
-*Add your Power BI dashboard screenshot here.*
+![Heart Disease Risk Analysis Dashboard](heart-disease-risk-analysis-dashboard)
 
 Example:
 
 ```markdown
-![Heart Disease Risk Analysis Dashboard](dashboard-screenshot.png)
+![Heart Disease Risk Analysis Dashboard](heart-disease-risk-analysis-dashboard)
 ```
-
----
-
-## ⚠️ Disclaimer
-
-This project is created for **data analytics and educational purposes only**.
-
-The analysis is not intended for medical diagnosis, treatment decisions, or clinical recommendations.
-
----
-
-## 👨‍💻 Author
-
-**Susovan Das**
-
-**Data Analyst | SQL | Python | Power BI | Excel**
-
-GitHub: `github.com/ds-susovan`
-
-LinkedIn: `linkedin.com/in/susovan-das-data-analyst`
